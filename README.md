@@ -20,6 +20,10 @@ https://devzone.nordicsemi.com/nordic/power/w/opp/2/online-power-profiler-for-bl
 ## Infineon Antenna Design and RF Layout Guidelines AN91445
 https://www.cypress.com/file/136236/download
 
+
+## 50 Ohm track for 4 PCB Layer (NRF51822-QFAC)
+https://devzone.nordicsemi.com/f/nordic-q-a/10689/50-ohm-track-for-4-pcb-layer-nrf51822-qfac
+
 ## APPCAD
 The following RF design software is provided free of charge as a service to the RF and microwave design community.
 http://www.hp.woodshot.com/
