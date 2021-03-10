@@ -27,3 +27,7 @@ https://devzone.nordicsemi.com/f/nordic-q-a/10689/50-ohm-track-for-4-pcb-layer-n
 ## APPCAD
 The following RF design software is provided free of charge as a service to the RF and microwave design community.
 http://www.hp.woodshot.com/
+
+## u.FL Antenna 
+Three Quick Tips About Using U.FL
+https://learn.sparkfun.com/tutorials/three-quick-tips-about-using-ufl/all
